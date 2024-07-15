@@ -39,3 +39,8 @@ Here are some ideas to get you started:
 <h2>Group</h2>
 
 <img src="https://img.shields.io/badge/Groupware-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+Go to Portfolio
+<a href="https://portfoliokkj.netlify.app/">
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" />
+</a>
