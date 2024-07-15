@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 <p align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=KangkijinsGithub&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me!&descAlignY=51&descAlign=62"/>
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa778&height=200&section=header" />
 
 <!-- 나의 레포짓토리 위젯 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangkijin)](https://github.com/anuraghazra/github-readme-stats) -->
