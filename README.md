@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <h2>Social</h2>
 
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/SVN-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
+<h2>Group</h2>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
