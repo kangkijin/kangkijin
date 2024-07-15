@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 <h2>Portfolio</h2>
 
 <p align='center'>
-    <a href="https://portfoliokkj.netlify.app/" style='vertical-align: top' target='_blank'>
-        <img src="[https://img.shields.io/badge/Go%20to-Portfolio-1abc9c.svg](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)" />
+    <a href="https://portfoliokkj.netlify.app/" target='_blank'>
+        <img src="https://img.shields.io/badge/PortFolio Site-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
     </a>
     <a href="https://portfoliokkj.netlify.app/](https://violet-bagel-d12.notion.site/KIJIN-PortFolio-d61ba38eeb734541bb11dbde05283b10)" target='_blank'>
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
