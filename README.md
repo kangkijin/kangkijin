@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align='center'>
+<a href="https://github.com/kangkijin/kangkijin" display='block' align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Kangkijin's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-</p>
+</a>
 
 <!-- 나의 레포짓토리 위젯 -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangkijin)](https://github.com/anuraghazra/github-readme-stats) -->
