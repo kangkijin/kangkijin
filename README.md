@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Groupware-E34F26?style=for-the-badge" /> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
 
-<h2>Portfolio</h2>
+<h2>Portfolio Link</h2>
 
-<p align='center'>
+<p>
     <a href="https://portfoliokkj.netlify.app/" target='_blank'>
         <img src="https://img.shields.io/badge/PortFolio Site-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
     </a>
