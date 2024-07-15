@@ -47,6 +47,6 @@ Here are some ideas to get you started:
         <img src="https://img.shields.io/badge/Go%20to-Portfolio-1abc9c.svg" />
     </a>
     <a href="https://portfoliokkj.netlify.app/](https://violet-bagel-d12.notion.site/KIJIN-PortFolio-d61ba38eeb734541bb11dbde05283b10)" target='_blank'>
-        <img src="https://img.shields.io/badge/Go%20to-Portfolio-1abc9c.svg](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     </a>
 </p>
