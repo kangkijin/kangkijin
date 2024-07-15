@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/kangkijin/kangkijin" display='block' align='center'>
+<a href="https://github.com/kangkijin" display='block' align='center'>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Kangkijin's%20Github&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
 </a>
 
