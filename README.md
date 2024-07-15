@@ -42,6 +42,6 @@ Here are some ideas to get you started:
 
 <h2>Portfolio</h2>
 
-<a href="https://portfoliokkj.netlify.app/">
+<a href="https://portfoliokkj.netlify.app/" display='block' align='center'>
     <img src="https://img.shields.io/badge/Go%20to-Portfolio-1abc9c.svg" />
 </a>
