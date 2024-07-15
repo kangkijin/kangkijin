@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>kangkijin's github</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa778&height=200&section=header" />
 
 <!-- 나의 레포짓토리 위젯 -->
