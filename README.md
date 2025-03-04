@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 <br />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+<img src="https://img.shields.io/badge/JSP-CCFF00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FTP-D32D27?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SFTP-002873?style=for-the-badge" />
 
 <h2>Design</h2>
 
