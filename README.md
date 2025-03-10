@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JSP-CCFF00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FTP-D32D27?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SFTP-002873?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GSAP-0ae448?style=for-the-badge" />
 
 <h2>Design</h2>
 
